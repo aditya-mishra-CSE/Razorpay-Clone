@@ -10,7 +10,7 @@ Razorpay Clone Project!
 - Robust backend powered by Node.js
 - Efficient package management with NPM
 
-🌐 The site is live at:
+🌐 The site is live at: https://razorpay-clone-adityaa.netlify.app/
 🔗 Access the code : 
 
 What I Learned:
