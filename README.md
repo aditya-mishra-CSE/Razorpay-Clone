@@ -11,7 +11,7 @@ Razorpay Clone Project!
 - Efficient package management with NPM
 
 🌐 The site is live at: https://razorpay-clone-adityaa.netlify.app/
-🔗 Access the code : 
+🔗 Access the code : https://github.com/aditya-mishra-CSE/Razorpay-Clone
 
 What I Learned:
 - Building a responsive UI from scratch
